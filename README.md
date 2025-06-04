@@ -26,3 +26,13 @@
 ## Контакты
 
 Кабыл Бекен - [@KabylBeken](https://github.com/KabylBeken)
+
+## Фото 
+
+![image](https://github.com/user-attachments/assets/a2df9f7f-fd4b-4814-95c5-6d7fd043c49f)
+![image](https://github.com/user-attachments/assets/10344b6a-7255-4176-a6a9-12ae18e12b50)
+![image](https://github.com/user-attachments/assets/1306e143-d5e5-44a0-bb66-fa3328c4bcd9)
+
+
+
+
