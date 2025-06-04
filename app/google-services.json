@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919432017592",
+    "project_id": "quizapp-66deb",
+    "storage_bucket": "quizapp-66deb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919432017592:android:302aadb6345a4f72c4264d",
+        "android_client_info": {
+          "package_name": "com.pratyakshkhurana.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWooMWZXDBwG_b2Nrc9L3yH_hOZ3uKPGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

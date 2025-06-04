@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title_activity_questions">СұрақтарБеті</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Бірінші Фрагмент</string>
+    <string name="second_fragment_label">Екінші Фрагмент</string>
+    <string name="next">Келесі</string>
+    <string name="previous">Алдыңғы</string>
+
+    <string name="hello_first_fragment">Сәлем, бірінші фрагмент</string>
+    <string name="hello_second_fragment">Сәлем, екінші фрагмент. Arg: %1$s</string>
+    <string name="quiz_app_login_screen_text">Викторина қосымшасы</string>
+    <string name="welcome_login_screen_text">Қош келдіңіз</string>
+    <string name="please_enter_your_name_login_screen_text">Атыңызды енгізіңіз.</string>
+    <string name="rule_1">Викторинада 3 кездейсоқ сұрақ болады.</string>
+    <string name="rule_2">Әр дұрыс жауап сізге 1 ұпай береді.</string>
+    <string name="rule_3">Әр қате жауап 1 ұпайды шегереді.</string>
+    <string name="rule_4">Нәтижелер викторина соңында қолжетімді.</string>
+    
+    <!-- Firebase Auth -->
+    <string name="default_web_client_id">919432017592-o7dv7jvlb7l9g7p1qqcm4fj6u7r1vl8d.apps.googleusercontent.com</string>
+</resources>
